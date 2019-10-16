@@ -20,5 +20,4 @@ finally it shows on the screen with it is compiled .
 ● Command Prompt
 
 
-![](Robots.png)
 
